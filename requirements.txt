@@ -1,0 +1,16 @@
+azure-cognitiveservices-speech==1.48.1
+azure-core==1.33.0
+certifi==2026.1.4
+charset-normalizer==3.4.4
+idna==3.11
+PyAudio==0.2.14
+requests==2.32.4
+six==1.17.0
+ten_vad @ git+https://github.com/TEN-framework/ten-vad.git@22a3bcd4509d0faaa8eef4881e8af5f39c178950
+typing_extensions==4.13.2
+urllib3==2.2.3
+numpy
+edge-tts
+google-cloud-texttospeech
+google-auth
+cohere

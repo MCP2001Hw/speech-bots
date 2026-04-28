@@ -42,8 +42,6 @@ car-repair-speechbot/
 ├── modules/
 │   ├── TTS/
 │   │   ├── tts.py                  Main TTS module (Edge, Microsoft, Google)
-│   │   ├── tts2.py                 Alternative TTS implementation
-│   │   └── tts_latency_test.py     100-iteration provider benchmark
 │   └── preResponse/
 │       └── preResponse.py          Pre-recorded response cache and playback
 ├── requirements.txt
